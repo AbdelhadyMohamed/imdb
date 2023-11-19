@@ -1,16 +1,13 @@
-# imdb
+![Screenshot_20231119_210006](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/88ec4ad5-a0d1-4d81-a82e-97f6ac9ab96f)![Screenshot_20231119_210140](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/25e0e2f9-e264-46f0-a81b-2bd6caa96dfe)![Screenshot_20231119_210006](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/29650577-3e1c-4cbd-8e47-90626579745f)
+  ![Screenshot_20231119_210150](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/e7b4ac24-600b-4591-b058-c4556185e53a)
+![Screenshot_20231119_210055](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/912d1f6b-3251-40a5-96e0-865bf17f055a)
+![Screenshot_20231119_210055](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/b87bedca-22a4-4d23-bc04-5b4ecf07d8a7)
+![Screenshot_20231119_210119](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/ac6244b8-ffa9-4dd2-8330-da79cf3968fa)
+![Screenshot_20231119_210140](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/ba342710-bf29-4dd9-8ab1-39687b91cfda)
+![Screenshot_20231119_210150](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/d7268212-32cb-49ff-b9c2-b81b9a733e49)![Screenshot_20231119_210119](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/624ac211-8ead-4184-9644-5af3033fadc3)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20231119_210200](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/3c645c67-1371-492b-97bf-c97de843b47e)
+![Screenshot_20231119_210200](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/6c3e9b30-03aa-459a-8ce0-10b0573d9dc1)
+![Uploading Screenshot_20231119_210150.png…]()
+![Screenshot_20231119_210200](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/3499449e-af98-44ed-8f69-547b7eaefed3)
+![Screenshot_20231119_210140](https://github.com/AbdelhadyMohamed/imdb/assets/86628356/b4f8c1fd-8dac-4039-aac5-1af5a8aa53d4)
